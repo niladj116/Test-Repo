@@ -3,3 +3,8 @@ Hello Github!!
 Some more updates added..
 
 I've a new Idea. So let's create it in a branch
+
+
+New Idea # 1
+New Idea # 2
+New Idea # 3
