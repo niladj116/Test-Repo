@@ -1,3 +1,5 @@
 Hello Github!!
 
 Some more updates added..
+
+Some obvious changes goes directly into Master
